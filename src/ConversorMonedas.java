@@ -72,7 +72,7 @@ public class ConversorMonedas{
     } catch (Exception e) {
         System.out.println("Error al obtener tasa de cambio: " + e.getMessage());
         return -1;
-        //Final
+        //Final de programa
 
     }
     }
